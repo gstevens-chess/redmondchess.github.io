@@ -470,9 +470,12 @@ div.title img {
     padding-bottom: 2em;
 }
 
-.intro .map {
-    float: left;
-    width: 40%;
+.intro .mailinglist {
+    float: right;
+    display: inline-block;
+}
+
+.intro .blurb .map {
 }
 
 dl {
