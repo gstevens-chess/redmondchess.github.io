@@ -28,7 +28,7 @@ members to purchase a beverage or a meal as a sign of our appreciation.
 
 <dl>
     <dt>July 2024</dt>
-    <dd> Relocate to Pappy's Pizzeria</dd>
+    <dd> Relocated to Pappy's Pizzeria</dd>
     <dt>February 2023</dt>
     <dd>Partnered with Central Oregon Chess</dd>
     <dt>January 2023</dt>
