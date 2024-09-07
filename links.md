@@ -11,7 +11,7 @@ main_nav: true
 |---|---|---|---|---|
 |Bend Chess &amp; Go Club|Bend|Wednesdays&nbsp;6pm<br>[Crux Fermentation Project][crux]|Website: [bendchess.com][bendchess]<br>Mailing List: [sign-up][bendmailinglist]|
 |Central Oregon Chess Club|Bend|Thursdays&nbsp;6pm<br><a href="https://goo.gl/maps/XCGosQLEEgiGD5tJ9">Whispering Winds Retirement</a>|<a href="https://nwchess.com/clubs/bend_cocc.html">Club Details</a> or<br>email Ryan B at<br><a href="mailto:rberhar@yahoo.com">rberhar@yahoo.com</a><br>to join the mailing list.|
-|Redmond Chess Club|Redmond|Tuesdays&nbsp;6pm<br><a href="https://goo.gl/maps/UikSMEQfyZUicuH16">High-Desert Music Hall</a>|Come and visit!|
+|Redmond Chess Club|Redmond|Tuesdays&nbsp;6pm<br><a href="[https://https://maps.app.goo.gl/VrCmHQgDj23V74bE9">Pappy's Pizzeria</a>|Come and visit!|
 
 ## Websites
 <dl>
@@ -25,5 +25,5 @@ main_nav: true
 
 [bendchess]: https://bendchess.com
 [bendmailinglist]: https://www.subscribepage.com/o3u2m9
-[musichall]: https://goo.gl/maps/UikSMEQfyZUicuH16
+[pappys]: [https://maps.app.goo.gl/VrCmHQgDj23V74bE9
 [crux]: https://www.cruxfermentation.com/
